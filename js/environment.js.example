@@ -1,0 +1,7 @@
+var Configuracion = {
+    "ApiUrl": "http://localhost:8000/api",
+    "credenciales" : {
+        "name" : "",
+        "password" : ""
+    }
+}
